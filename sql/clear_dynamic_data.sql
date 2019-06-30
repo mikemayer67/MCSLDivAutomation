@@ -1,0 +1,10 @@
+delete from divisionals;
+delete from individual_results;
+delete from meets;
+delete from rc_coaches;
+delete from relay_carnival;
+delete from relay_results;
+delete from swimmers;
+delete from teams;
+delete from generated_ussids;
+commit;

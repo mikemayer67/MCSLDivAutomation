@@ -1,0 +1,21 @@
+$files = {
+           '_<../../perl/load_relays_cl2' => [
+                                               {
+                                                 'expr' => undef,
+                                                 'value' => '1',
+                                                 'line' => '108',
+                                                 'type' => 'user',
+                                                 'fname' => '../../perl/load_relays_cl2',
+                                                 'text' => '      my $place = $rec->{finals_rank};
+'
+                                               }
+                                             ]
+         };
+$expr_list = [
+               {
+                 'depth' => -1,
+                 'expr' => '$rec'
+               }
+             ];
+$eval_saved_text = undef;
+$main_win_geometry = '947x923+0+0';
